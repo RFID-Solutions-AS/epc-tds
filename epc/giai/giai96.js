@@ -17,7 +17,7 @@
  
 class Giai96 extends Epc {
 
-	static EPC_HEADER = 0x32;
+	static EPC_HEADER = 0x34;
 
 	static TOTAL_BITS = 96;
 	static PARTITION_OFFSET = 11;
